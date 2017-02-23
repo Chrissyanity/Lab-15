@@ -1,0 +1,31 @@
+body {
+  background: no-repeat center center fixed;
+  background-image: url(http://kiddyclinic.com/wp-content/uploads/2012/06/bg1.jpg);
+}
+h1 {
+  text-align: center;
+  font-family: 'Fontdiner Swanky', cursive;
+font-size: 84px;
+color: #FFC300;
+
+}
+#wordBoxes {
+  margin-left: 12%;
+  }
+#buttonDiv {
+  padding-top: 20px;
+  margin-left: 43%;
+
+}
+nav {
+  text-align: center;
+  padding: 20px;
+}
+.libParagraph {
+  display: block;
+  text-align: center;
+  font-size: 24px;
+  font-family: 'Pangolin', cursive;
+  color: black;
+
+}
